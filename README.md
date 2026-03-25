@@ -75,7 +75,7 @@ Lots of practical assignments. Clear explanations. Real code you write yourself.
 |  Email | autocadmdav@gmail.com |
 | Telegram | @yuriy_gamiy |
 | WhatsApp | [message link](https://chat.whatsapp.com/IsgWjoKHbQhAjaqw0QFy7w) |
-| Discord | [message link]([1330081655561523271](https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F1412816558392086611)) |
+| Discord | [message link](https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F1412816558392086611) |
 | Facebook | [message link](https://www.facebook.com/profile.php?id=100081888986317) |
 | Instagram | [message link](https://www.instagram.com/self_code_practise/) |
 
